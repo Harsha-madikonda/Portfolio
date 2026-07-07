@@ -6,7 +6,7 @@ A modern, responsive, and animated developer portfolio showcasing my skills, pro
 
 ## 🌐 Live Demo
 
-🔗 https://your-portfolio-url.vercel.app
+🔗 https://portfolio-szme.vercel.app/
 
 
 ---
